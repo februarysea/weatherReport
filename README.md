@@ -1,5 +1,8 @@
 # WeatherReport
 
+I use this repository on a vps to send a message on time everyday.
+
+
 The repository use 3 python modules: 
  
 weather-api: https://github.com/AnthonyBloomer/weather-api
@@ -8,10 +11,6 @@ twilio: https://github.com/twilio/twilio-python
  
 apscheduler: https://github.com/agronholm/apscheduler
  
-***
-
-I use this repository on a vps to send a message on time everyday.
-
 ***
 
 # Enviroment build
